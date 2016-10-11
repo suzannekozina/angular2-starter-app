@@ -1,4 +1,7 @@
-# Angular 2 Starter
+# Exploring Angular 2 for TypeScript with RxJs Observables
+
+There is a wealth of resources available for learning Angular 2 for TypeScript at [angular.io](https://angular.io/docs/ts/latest/). Much of the code in this respository came from going through the tutorials and examples in the Angular 2 docs. Many thanks to the Angular 2 folks for providing such extension documentation.
+
 
 **This is not the perfect arrangement for your application. It is not designed for production.
 It exists primarily to get you started quickly with learning and prototyping in Angular**
